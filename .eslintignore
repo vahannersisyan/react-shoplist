@@ -1,0 +1,4 @@
+/jest.config.js
+/dist/**/*
+/package-lock.json
+/setupTests.js

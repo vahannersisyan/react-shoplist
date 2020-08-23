@@ -1,0 +1,53 @@
+span.dotted {
+  border: none;
+  border-bottom: 1px dotted #CCC;
+}
+
+hr.dotted {
+  border-top: 1px dashed #CCC;
+  width: 100%;
+}
+
+.abbr {
+  text-decoration-color: #CCC;
+}
+.main-color {
+  color: #311094;
+}
+
+.button {
+  background: none;
+  border: none;
+  color: #311094;
+  padding: 0;
+}
+
+.background-button {
+  background-color: #311094;
+  border: 1px solid #311094;
+  border-radius: 5px;
+  color: white;
+}
+
+.proceed-button {
+  padding: 5px;
+}
+
+.action-button {
+  padding: 0 8px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.flex-end {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.span {
+  width: 150px;
+  display: inline-block;
+  text-align: right;
+}

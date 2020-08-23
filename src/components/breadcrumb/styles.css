@@ -1,0 +1,20 @@
+
+ol.shopBreadCrumb {
+  padding: 10px 16px;
+  list-style: none;
+}
+
+ol.shopBreadCrumb li {
+  display: inline;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+ol.shopBreadCrumb li.breadcrumb-item+li.breadcrumb-item:before {
+  content: "\00bb";
+}
+
+ol.shopBreadCrumb li a {
+  color: #311094;
+  text-decoration: underline;
+}

@@ -1,0 +1,10 @@
+.shop-item {
+  border: 2px dotted #CCC;
+  padding: 10px;
+  height: 170px;
+  margin-bottom: 10px;
+}
+
+.item-description {
+  min-height: 70px;
+}
